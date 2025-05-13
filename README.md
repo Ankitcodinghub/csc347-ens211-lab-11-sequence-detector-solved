@@ -1,0 +1,1 @@
+# csc347-ens211-lab-11-sequence-detector-solved
